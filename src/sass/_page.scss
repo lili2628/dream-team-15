@@ -32,13 +32,9 @@
 
     @media screen and (min-width: 1200px) {
 
-        height: 600px;
        
         background-image: url("../images/page-bg-image/backgroud_desktop@1x.jpg");
 
-        padding-top: 200px;
-        padding-bottom: 200px;
-        max-width: 1600px;
 
         @media screen and (min-device-pixel-ratio: 2),
         (min-resolution: 192dpi),
